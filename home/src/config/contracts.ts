@@ -1,6 +1,6 @@
 // Auto-generated from deployments/sepolia/EncryptedDoubleDraw.json
 // Do not edit manually; deploy a new contract instead.
-export const CONTRACT_ADDRESS = '0x0000000000000000000000000000000000000000';
+export const CONTRACT_ADDRESS = '0xBd69Fb8d3F5828E5AB5917bcb6AD7988c4820848';
 
 export const CONTRACT_ABI = [
   {
